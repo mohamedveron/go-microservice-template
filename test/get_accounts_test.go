@@ -1,8 +1,8 @@
 package test
 
 import (
-	"github.com/TheSocialLoanCompany/go-microservice-template/persistence"
-	"github.com/TheSocialLoanCompany/go-microservice-template/service"
+	"github.com/mohamedveron/go-microservice-template/persistence"
+	"github.com/mohamedveron/go-microservice-template/service"
 	"testing"
 )
 

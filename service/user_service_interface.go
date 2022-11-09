@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"github.com/TheSocialLoanCompany/go-microservice-template/domain"
+	"github.com/mohamedveron/go-microservice-template/domain"
 )
 
 type UserServiceInterface interface {

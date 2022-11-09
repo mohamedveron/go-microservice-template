@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/TheSocialLoanCompany/go-microservice-template/api"
-	"github.com/TheSocialLoanCompany/go-microservice-template/persistence"
-	"github.com/TheSocialLoanCompany/go-microservice-template/service"
-	"github.com/TheSocialLoanCompany/logger"
-	pb "github.com/TheSocialLoanCompany/proto-buff-interface/loans_pb/api"
+	"github.com/mohamedveron/go-microservice-template/api"
+	"github.com/mohamedveron/go-microservice-template/persistence"
+	"github.com/mohamedveron/go-microservice-template/service"
+	"github.com/mohamedveron/logger"
+	pb "github.com/mohamedveron/proto-buff-interface/loans_pb/api"
 	"google.golang.org/grpc"
 	"net"
 )

@@ -2,7 +2,7 @@ package api
 
 import (
 	"context"
-	pb "github.com/TheSocialLoanCompany/proto-buff-interface/loans_pb/api"
+	pb "github.com/mohamedveron/proto-buff-interface/loans_pb/api"
 	"log"
 )
 

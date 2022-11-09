@@ -1,8 +1,8 @@
 package user_management
 
 import (
-	"github.com/TheSocialLoanCompany/logger"
-	pb "github.com/TheSocialLoanCompany/proto-buff-interface/user_pb/api"
+	"github.com/mohamedveron/logger"
+	pb "github.com/mohamedveron/proto-buff-interface/user_pb/api"
 	"google.golang.org/grpc"
 )
 

@@ -2,9 +2,9 @@ package user_management
 
 import (
 	"context"
-	"github.com/TheSocialLoanCompany/go-microservice-template/domain"
-	"github.com/TheSocialLoanCompany/logger"
-	pb "github.com/TheSocialLoanCompany/proto-buff-interface/user_pb/api"
+	"github.com/mohamedveron/go-microservice-template/domain"
+	"github.com/mohamedveron/logger"
+	pb "github.com/mohamedveron/proto-buff-interface/user_pb/api"
 )
 
 func GetUserById(ctx context.Context, uuid string) (*domain.User, error) {

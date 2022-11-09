@@ -2,9 +2,9 @@ package service
 
 import (
 	"context"
-	"github.com/TheSocialLoanCompany/go-microservice-template/domain"
-	"github.com/TheSocialLoanCompany/go-microservice-template/proxy/grpc/user_management"
-	"github.com/TheSocialLoanCompany/logger"
+	"github.com/mohamedveron/go-microservice-template/domain"
+	"github.com/mohamedveron/go-microservice-template/proxy/grpc/user_management"
+	"github.com/mohamedveron/logger"
 )
 
 type UserServiceGrpcImplementation struct {

@@ -1,6 +1,6 @@
 package service
 
-import "github.com/TheSocialLoanCompany/go-microservice-template/persistence"
+import "github.com/mohamedveron/go-microservice-template/persistence"
 
 type Service struct {
 	persistence *persistence.Persistence

@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/TheSocialLoanCompany/go-microservice-template/service"
-	pb "github.com/TheSocialLoanCompany/proto-buff-interface/loans_pb/api"
+	"github.com/mohamedveron/go-microservice-template/service"
+	pb "github.com/mohamedveron/proto-buff-interface/loans_pb/api"
 )
 
 type Server struct {
